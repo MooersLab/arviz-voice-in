@@ -10,7 +10,7 @@ It also supports working with netCDF data files via the xarray module.
 
 ## Usage
 
-- Open the *python.csv* file in a text editor or in the raw view on GitHub.
+- Open the *arviz.csv* file in a text editor or in the raw view on GitHub.
 - Select all, copy, and paste into the text area exposed upon clicking on the **bulk add** window in Voice-In Plus.
 - Hit the **Add Commands** button to add the new commands.
 - Activate Voice In Plus in Google Chrome or Microsoft Edge.
