@@ -5,7 +5,8 @@
 # Library of voice-triggered code snippets for ArviZ using Voice-In Plus
 
 Voice-triggered snippets for the [ArviZ](https://www.arviz.org/en/latest/) library that supports making plots for Bayesian data analysis.
-It also supports working with netCDF data files.
+It also supports working with netCDF data files via the xarray module.
+
 
 
 
