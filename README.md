@@ -16,11 +16,28 @@ It also supports working with netCDF data files via the xarray module.
 - Activate Voice In Plus in Google Chrome or Microsoft Edge.
 - Speak the voice command (in the left column of the CSV file) with the cursor in a code cell in a Jupyter Notebook or in a Python script file that has been opened for editing inside Jupyter Lab.
 
+## Related projects
+
+- [markdown-jupyter-voice-in](https://github.com/MooersLab/markdown-jupyter-voice-in)
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [voice-in-basics-quiz](https://github.com/MooersLab/voice-in-basics-quiz)
+- [arviz-voice-in](https://github.com/MooersLab/arviz-voice-in)
+- [matplotlib-voice-in](https://github.com/MooersLab/matplotlib-voice-in)
+- [pandas-voice-in](https://github.com/MooersLab/pandas-voice-in)
+- [numpy-voice-in](https://github.com/MooersLab/numpy-voice-in)
+- [statsmodels-voice-in](https://github.com/MooersLab/statsmodels-voice-in)
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [python-voice-in](https://github.com/MooersLab/python-voice-in)
+- [cmdstanpy-voice-in](https://github.com/MooersLab/cmdstanpy-voice-in)
+- [scipy-voice-in](https://github.com/MooersLab/scipy-voice-in)
+
 ## Update history
 
 |Version      | Changes                                                                                                                                    | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
 | Version 0.1 |   Added initial csv file. More commands to be added.                                                                                       | 2024 August 7        |
+| Version 0.1 |   Added usage and related projects subsections to the README.md file.                                                                    | 2024 August 8         |
+
 
 ## Sources of funding
 
