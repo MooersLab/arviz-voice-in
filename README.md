@@ -21,7 +21,6 @@ It also supports working with netCDF data files via the xarray module.
 - [markdown-jupyter-voice-in](https://github.com/MooersLab/markdown-jupyter-voice-in)
 - [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
 - [voice-in-basics-quiz](https://github.com/MooersLab/voice-in-basics-quiz)
-- [arviz-voice-in](https://github.com/MooersLab/arviz-voice-in)
 - [matplotlib-voice-in](https://github.com/MooersLab/matplotlib-voice-in)
 - [pandas-voice-in](https://github.com/MooersLab/pandas-voice-in)
 - [numpy-voice-in](https://github.com/MooersLab/numpy-voice-in)
