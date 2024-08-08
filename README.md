@@ -8,6 +8,13 @@ Voice-triggered snippets for the [ArviZ](https://www.arviz.org/en/latest/) libra
 It also supports working with netCDF data files via the xarray module.
 
 
+## Usage
+
+- Open the *python.csv* file in a text editor or in the raw view on GitHub.
+- Select all, copy, and paste into the text area exposed upon clicking on the **bulk add** window in Voice-In Plus.
+- Hit the **edit** button to add the new commands.
+- Activate Voice In Plus in Google Chrome or Microsoft Edge.
+- Speak the voice command (in left column of the CSV file) with the cursor in a code cell in a Jupyter Notebook or in a Python script file that has been opened for editing inside of Jupyter Lab.
 
 
 ## Update history
